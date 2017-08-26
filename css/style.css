@@ -1,0 +1,33 @@
+body{
+background-color: green;
+background-attachment: inherit;
+  background-position:  right ;
+background-repeat:no-repeat;
+
+
+ }
+.main {
+  text-align: left;
+
+
+
+}
+.font{
+  font-size: 20px
+}
+ div.about-me{color: green}
+ div.david{color:yellow}
+
+ nav ul{
+   list-style: ;
+   background-color: black;
+ }
+ nav ul li{
+   display: inline-block;
+ }
+ nav ul li{
+   padding: 25px 55px;
+ }
+nav ul li:hover{
+  color:blue;
+}
